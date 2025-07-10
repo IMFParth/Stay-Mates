@@ -328,3 +328,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Changing how people find their perfect stay, one match at a time.*
 
 </div># Stay-Mates
+# Stay-Mates
