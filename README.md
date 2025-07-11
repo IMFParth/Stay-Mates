@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Made with ❤️ by Parth Rai](https://img.shields.io/badge/Made%20with%20❤️%20by-Parth%20Rai-red.svg)](https://github.com/IMFParth)
+(https://img.shields.io/badge/Made%20with%20❤️%20by-Parth%20Rai-red.svg)](https://github.com/IMFParth)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
@@ -244,23 +244,6 @@ StayMates/
 
 ---
 
-## 🤝 Contributing
-
-We love contributions! Here's how you can help make StayMates even better:
-
-1. **🍴 Fork** the repository
-2. **🌿 Create** your feature branch (`git checkout -b feature/AmazingFeature`)
-3. **💾 Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **📤 Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **🔄 Open** a Pull Request
-
-### 🎯 Areas We Need Help With:
-- 🎨 UI/UX improvements
-- 🔧 New features
-- 🐛 Bug fixes
-- 📚 Documentation
-- 🌍 Internationalization
-- 📱 Mobile app development
 
 ---
 
@@ -277,26 +260,17 @@ We love contributions! Here's how you can help make StayMates even better:
 
 ---
 
-## 🏆 Recognition & Awards
-
-- 🥇 **Best Student Project** - Tech Innovation Awards 2024
-- 🌟 **Rising Star** - GitHub Trending
-- 🚀 **Featured Project** - Developer Community Showcase
-
----
 
 ## 📞 Get In Touch
 
 <div align="center">
 
-**👨‍💻 Parth Rai** - *Creator & Lead Developer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMFParth)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthrai@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthrai)
 
 **💬 Questions? Ideas? Just want to say hi?**  
-Drop me an email at **parthrai@gmail.com** - I'd love to hear from you!
 
 </div>
 
